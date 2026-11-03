@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "state": "no-dependencies",
+  "plugin": "dsh-easyrewrite",
+  "version": "9999.9.9",
+  "archiveSha256": "",
+  "manifestSha256": "5a11dc3f5fa23451bea69ae492c871e7fd6f59de8ae5f6eeab573f66ad9eb0a3",
+  "treeSha256": "27bf64a54ff6626b0e4130fef73a6cf1e6942e85098ff416c986bc62f30c1863",
+  "resolved": [],
+  "lockSha256": "",
+  "manager": "pnpm",
+  "managerVersion": "not-executed",
+  "integrity": "actual file tree SHA-256 and native pnpm lockfile",
+  "runtimeDsh": "0.2.0-rc.2",
+  "authorClaims": {}
+}
